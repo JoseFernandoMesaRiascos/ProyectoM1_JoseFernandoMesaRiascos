@@ -84,6 +84,7 @@ INTERACCIONES Y FORMATOS
 
 Cuenta con las opciones de escoger un número determinado de colores ( 6 , 8 o 9 ), junto con el estilo de formato el cual queda en total criterio del usuario escoger cual es la que más se adapta a su necesidad, y por último y no menos importante el botón que genera la paleta de colores, al darle click se cambia de manera aleatoria todos los colores. 
 
+![image alt](https://github.com/JoseFernandoMesaRiascos/ProyectoM1_JoseFernandoMesaRiascos/blob/20dbd8dc6551c8ac6995d75bf9b4c18c26b03edd/Screenshot%202026-09-24%20031444.png)
 
 
 PALETAS DE COLORES
@@ -91,6 +92,7 @@ PALETAS DE COLORES
 Vemos las paletas de colores todas con su respectivo código, dependiendo del color cambia el tono del texto para su mayor visibilidad, también cuenta con la opción de copiar el codigo únicamente haciendo click.
 
 
+![image alt](https://github.com/JoseFernandoMesaRiascos/ProyectoM1_JoseFernandoMesaRiascos/blob/20dbd8dc6551c8ac6995d75bf9b4c18c26b03edd/Screenshot%202026-09-24%20031858.png)
 
 
 USO DE IA
@@ -101,14 +103,14 @@ Pedí que me recomendará la mejor ruta y estructura para aplicar la lógica de 
 
 En esta función creamos los colores aleatorios con el formato hsl
 
-
+![image alt](https://github.com/JoseFernandoMesaRiascos/ProyectoM1_JoseFernandoMesaRiascos/blob/20dbd8dc6551c8ac6995d75bf9b4c18c26b03edd/Screenshot%202026-09-24%20032741.png)
 
 Esta función me ayudo mucho a pasar del formato hsl a hex
 
-
+![image alt](https://github.com/JoseFernandoMesaRiascos/ProyectoM1_JoseFernandoMesaRiascos/blob/20dbd8dc6551c8ac6995d75bf9b4c18c26b03edd/Screenshot%202026-09-24%20033000.png)
 
 La IA propuso una funcion que servia para el cambio de color automatico del codigo en los colores
-
+![image alt](https://github.com/JoseFernandoMesaRiascos/ProyectoM1_JoseFernandoMesaRiascos/blob/20dbd8dc6551c8ac6995d75bf9b4c18c26b03edd/Screenshot%202026-09-24%20033440.png)
  
 Pedí que me corrigiera el código HTML y CSS y Pedí una explicación línea por línea del código CSS para entender qué hacía cada propiedad.
 
