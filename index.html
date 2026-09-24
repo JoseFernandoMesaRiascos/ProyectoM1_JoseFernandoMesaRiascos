@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ProyectoM1_JoseFernandoMesaRiascos</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>GENERADOR DE PALETAS</h1>
+        <p>Bienvenido en la pagina podras generador de paletas de colores aleatorias.</p>
+    </header>
+
+    <main> 
+        <section class="controls" aria-label="Opciones de generacion">
+         <!-- Se usa <fieldset>/<legend> agrupan cada grupo de opciones -->
+        <fieldset>
+            <legend id="size-legend">Cantidad de colores</legend>
+            <div class="option-group" role="radiogroup" aria-labelledby="size-legend">
+                <label><input type="radio" name="size" value="6" checked>6</label>
+                <label><input type="radio" name="size" value="8">8</label>
+                <label><input type="radio" name="size" value="9">9</label>
+            </div>
+        </fieldset>
+        
+        <fieldset>
+            <legend id="format-legend">Formato</legend>
+            <div class="option-group" role="radiogroup" aria-labelledby="format-legend">
+                <label><input type="radio" name="format" value="hsl" checked>HSL</label>
+                <label><input type="radio" name="format" value="hex">HEX</label>
+            </div>
+        </fieldset>    
+        <button type="button" id="generate-btn">Generador de paleta</button>
+        </section>
+        <!-- lista: cada color es un elemento de lista -->
+        <ul class="palette" id="palette" aria-label="paleta de colores generada"></ul>
+    </main>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    
+    <script src="/script.js" defer></script>
+    <footer>
+        <h2>© 2026 JOSE FERNANDO MESA RIASCOS</h2>
+        <a 
+        class="github"
+        href="https://github.com/JoseFernandoMesaRiascos" 
+        target="_blank" 
+        rel="noopener noreferrer"
+        >
+        GITHUB
+    </a>
+    </footer>
+</body>
+</html>
+
