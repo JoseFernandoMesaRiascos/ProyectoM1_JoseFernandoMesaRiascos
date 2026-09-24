@@ -77,7 +77,7 @@ A Continuación presentaré el diseño, interacciones, interfaz y la evolución 
 
 Como se puede observar asi es la estructura de la aplicacion wed profundizaremos sobre sus principales funciones 
 
-
+![image alt](https://github.com/JoseFernandoMesaRiascos/ProyectoM1_JoseFernandoMesaRiascos/blob/4e36fc37701d86c99300fa4edb14e53301c1cb93/Screenshot%202026-09-24%20030249.png)
 
 
 INTERACCIONES Y FORMATOS
